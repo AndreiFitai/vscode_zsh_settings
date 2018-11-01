@@ -1,0 +1,25 @@
+{
+  "workbench.colorTheme": "Solarized Dark",
+  "editor.tabSize": 2,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 300000, //5 minutes
+  "window.titleBarStyle": "custom",
+  "window.menuBarVisibility": "toggle",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.fontFamily": "MesloLGM Nerd Font",
+  "breadcrumbs.enabled": true,
+  "window.zoomLevel": 0,
+  "explorer.confirmDragAndDrop": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.formatOnSave": true, // comment out when vs live,
+  "editor.snippetSuggestions": "top",
+  "editor.tabCompletion": true,
+  "[json]": {
+      "editor.formatOnSave": false
+    },
+    "[jsonc]": {
+      "editor.formatOnSave": false
+    },
+    "workbench.activityBar.visible": true,
+    "javascript.updateImportsOnFileMove.enabled": "never"
+  }
